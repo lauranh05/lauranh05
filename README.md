@@ -3,7 +3,7 @@
 <!-- BANNER PRINCIPAL: Sube tu propio atardecer en pixel art a una carpeta "assets" en tu repo -->
 <img src="./assets/sunset-banner.gif" alt="Atardecer en Pixel Art" width="100%" />
 
-# Hola, soy LauDumbThings 🎷👾
+# Hola, soy LauDumbThings👾
 <sub>*(pero me suelen llamar Laura)*</sub>
 
 <br>
@@ -22,15 +22,15 @@
 
 ### 🖥️ `C:\USERS\LauDumbThings\README.TXT`
 
-Soy estudiante de **3º de Ingeniería Multimedia** y uso este rincón de internet como mi laboratorio personal. Me gusta pensar en mí misma como una **programadora todoterreno**: lo mismo te monto una web limpia y funcional con buena arquitectura, que me paso tres horas programando un visualizador psicodélico solo porque me hacía gracia verlo moverse.
+Soy estudiante de **3º de Ingeniería Multimedia** y uso este rincón de internet como mi cartelera personal. Soy una persona muy flexible, hoy hacemos un proyecto serio y al día siguiente aparezco en uno de los proyectos más estúpidos jamás existidos.
 
-Mi objetivo a futuro es convertirme en **Full Stack**, pero por el camino me niego a perder la parte creativa: me flipa el diseño web, trastear con **Blender**, la **producción musical**, la **ciberseguridad** y dibujar en **2D pixel art**. Básicamente, me apunto a programar cualquier cosa... *preferiblemente si no es algo demasiado importante*.
+Mi objetivo a futuro es convertirme en **Full Stack**, pero por el camino me niego a perder la parte creativa: me flipa el diseño web, trastear con **Blender**, la **producción musical** y la **ciberseguridad**. Básicamente, me apunto a programar cualquier cosa... *preferiblemente si no es algo demasiado importante*.
 
 ---
 
 ### 🛠️ Stack y herramientas
 
-**Con lo que construyo cosas:**
+**Lo que sabemos (más o menos):**
 
 <div data-importer="techs">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -46,7 +46,7 @@ Mi objetivo a futuro es convertirme en **Full Stack**, pero por el camino me nie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-**Cacharreando y aprendiendo:**
+**Aprendiendo sobre la marcha:**
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
@@ -60,15 +60,17 @@ Mi objetivo a futuro es convertirme en **Full Stack**, pero por el camino me nie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-**Boss final de la carrera (en proceso de derrota):**
+**Mi relación más tóxica:**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
 
 ---
 
-### 🧪 Laboratorio de experimentos
+### ¿Qué hago ahora?
 
-> *Actualmente cocinando mis primeros proyectos públicos de audio interactivo, gráficos en navegador y diseño web. Vuelve pronto que esto va a empezar a brillar.*
+> *Actualmente con proyectos un poco abandonados que volverán a casa (como en Navidad)*
 
 ---
 
@@ -82,11 +84,7 @@ Mi objetivo a futuro es convertirme en **Full Stack**, pero por el camino me nie
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lauranh05/lauranh05/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-
-<br><br>
-
-<!-- Puedes añadir aquí un GIF retro pequeño tipo cartel neón o icono de Windows 95 -->
-<sub>Hecho con café, nostalgia de Windows 95 y cero ganas de usar una plantilla aburrida.</sub>
+<sub>Hecho con amor a las 2 de la mañana &lt;3 </sub>
 
 </div>
 
