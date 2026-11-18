@@ -74,7 +74,7 @@ Mi objetivo a futuro es convertirme en **Full Stack**, pero por el camino me nie
 
 <div align="center">
 
-### 🕹️ Pac-Man comiéndose mis commits
+### 🕹️ Pac-Man
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lauranh05/lauranh05/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
