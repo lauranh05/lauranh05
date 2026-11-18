@@ -1,16 +1,94 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lauranh05/lauranh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- BANNER PRINCIPAL: Sube tu propio atardecer en pixel art a una carpeta "assets" en tu repo -->
+<img src="./assets/sunset-banner.gif" alt="Atardecer en Pixel Art" width="100%" />
 
-Here are some ideas to get you started:
+# Hola, soy LauDumbThings 🎷👾
+<sub>*(pero me suelen llamar Laura)*</sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+![Windows 95](https://img.shields.io/badge/OS-Windows_95_Vibes-008080?style=for-the-badge&logo=windows95&logoColor=white)
+![Multimedia](https://img.shields.io/badge/Carrera-Ing._Multimedia_(3º)-ff007f?style=for-the-badge)
+![Status](https://img.shields.io/badge/Estado-Programando_cosas_inútiles-8a2be2?style=for-the-badge)
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/lauranh05/lauranh05/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+</div>
+
+---
+
+### 🖥️ `C:\USERS\LauDumbThings\README.TXT`
+
+Soy estudiante de **3º de Ingeniería Multimedia** y uso este rincón de internet como mi laboratorio personal. Me gusta pensar en mí misma como una **programadora todoterreno**: lo mismo te monto una web limpia y funcional con buena arquitectura, que me paso tres horas programando un visualizador psicodélico solo porque me hacía gracia verlo moverse.
+
+Mi objetivo a futuro es convertirme en **Full Stack**, pero por el camino me niego a perder la parte creativa: me flipa el diseño web, trastear con **Blender**, la **producción musical**, la **ciberseguridad** y dibujar en **2D pixel art**. Básicamente, me apunto a programar cualquier cosa... *preferiblemente si no es algo demasiado importante*.
+
+---
+
+### 🛠️ Stack y herramientas
+
+**Con lo que construyo cosas:**
+
+<div data-importer="techs">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+**Cacharreando y aprendiendo:**
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+**Boss final de la carrera (en proceso de derrota):**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### 🧪 Laboratorio de experimentos
+
+> *Actualmente cocinando mis primeros proyectos públicos de audio interactivo, gráficos en navegador y diseño web. Vuelve pronto que esto va a empezar a brillar.*
+
+---
+
+<div align="center">
+
+### 🕹️ Pac-Man comiéndose mis commits
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lauranh05/lauranh05/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lauranh05/lauranh05/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lauranh05/lauranh05/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+
+<br><br>
+
+<!-- Puedes añadir aquí un GIF retro pequeño tipo cartel neón o icono de Windows 95 -->
+<sub>Hecho con café, nostalgia de Windows 95 y cero ganas de usar una plantilla aburrida.</sub>
+
+</div>
+
+
+
